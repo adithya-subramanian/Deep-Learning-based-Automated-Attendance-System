@@ -4,3 +4,5 @@ WIDER_train/
 lfw/
 
 WIDER_val/
+
+wider_face_split/
