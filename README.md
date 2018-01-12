@@ -46,5 +46,25 @@ In Advances in neural information processing systems (pp. 91-99).
 [4]Redmon, J., Divvala, S., Girshick, R. and Farhadi, A., 2016. You only look once: Unified, real-time object detection. In
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 779-788).
 
-[5]Sermanet, P., Eigen, D., Zhang, X., Mathieu, M., Fergus, R. and LeCun, Y., 2013. Overfeat: Integrated recognition, localization
-and detection using convolutional networks. arXiv preprint arXiv:1312.6229.
+[5]Sermanet, P., Eigen, D., Zhang, X., Mathieu, M., Fergus, R. and LeCun, Y., 2013. Overfeat: Integrated recognition, localization and detection using convolutional networks. arXiv preprint arXiv:1312.6229.
+
+_____________________________________________________________________________________________________________________________
+
+# Datasets
+
+## Dataset for Face Recognition: Lone Faces in Wild Dataset (LFW)
+
+Procured from URL: http://vis-www.cs.umass.edu/lfw/
+
+This dataset contains 13,000 images of 1680 people (read classes). This is used to benchmark the neural network used for Face Recognition.
+
+
+## Dataset for Face Detection: Wider Dataset
+
+Procured from URL: http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
+
+This dataset contains 32,000+ images and 392,000+ faces for benchmarking the face detection software. 
+
+The metric for accuracy of face detection would be the overlap of bounding boxes in the images annotated with.
+
+_____________________________________________________________________________________________________________________________
