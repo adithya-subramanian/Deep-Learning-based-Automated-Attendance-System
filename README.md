@@ -54,15 +54,16 @@ ________________________________________________________________________________
 
 ## Dataset for Face Recognition: Lone Faces in Wild Dataset (LFW)
 
-Procured from URL: http://vis-www.cs.umass.edu/lfw/
+Procured from URL:  http://vis-www.cs.umass.edu/lfw/
+Reference Paper:    https://people.cs.umass.edu/~elm/papers/LFW_survey.pdf
 
 This dataset contains 13,000 images of 1680 people (read classes). This is used to benchmark the neural network used for Face Recognition.
 
 
 ## Dataset for Face Detection: Wider Dataset
 
-Procured from URL: http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
-Reference Paper: http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/support/paper.pdf
+Procured from URL:  http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
+Reference Paper:    http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/support/paper.pdf
 
 This dataset contains 32,000+ images and 392,000+ faces for benchmarking the face detection software. 
 
