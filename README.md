@@ -62,6 +62,7 @@ This dataset contains 13,000 images of 1680 people (read classes). This is used 
 ## Dataset for Face Detection: Wider Dataset
 
 Procured from URL: http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
+Reference Paper: http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/support/paper.pdf
 
 This dataset contains 32,000+ images and 392,000+ faces for benchmarking the face detection software. 
 
